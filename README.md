@@ -111,7 +111,9 @@ pretty-php-log -f ~/logs/error_log -o ~/formatted.log
 
 Here's what your PHP logs look like with `pretty-php-log`:
 
+![pretty-php-log-demo](https://github.com/user-attachments/assets/42ab01e6-7775-4911-a200-8e12050c3fd4)
 
+![pretty-php-log-demo-e](https://github.com/user-attachments/assets/e67154e2-40d8-4d35-bdab-170298763eb0)
 
 
 
